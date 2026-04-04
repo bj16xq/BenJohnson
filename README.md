@@ -1,5 +1,7 @@
 # Ben Johnson's Open Scholarship Resource Hub
 
+## About
+
 **What?** This repository features reusable resources for teaching, studying, research, and knowledge mobilization.
 
 **Who?** The intended users are researchers, teachers, and students, but may be useful to the general public.
@@ -10,7 +12,7 @@
 
 For explanations of each resource, please view [the Wiki.](https://github.com/bj16xq/BJ_Open_Scholarship/wiki)
 
-**Related Content**
+## Related Content
 
 For resources specific to co-curricular organizations, please see [Open Co-Curricular Practices](https://github.com/bj16xq/Open_Co-curricular_Practices)
 
