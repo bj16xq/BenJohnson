@@ -6,7 +6,7 @@
 
 **Who?** The intended users are researchers, teachers, and students, but may be useful to the general public.
 
-**Why?** The purpose of using these resources are to support planning and executing academic responsibilities ranging from teaching, studying, research, and knowledge mobilization.
+**Why?** The purpose of using these resources are to support planning and executing academic responsibilities ranging from teaching, studying, research, and knowledge mobilization. Users of these resources may also make their own adjustments that can be openly shared, which enables a cycle of constant improvement that benefits others.
 
 **How?** Resources on this repository are openly accessible. The expectation is that, should improvements be made, that they be openly shared in a similar manner.
 
